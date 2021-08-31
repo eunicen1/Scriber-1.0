@@ -1,7 +1,7 @@
 # Scriber 📣
 
 ## About
-This mobile-friendly web application has been developed to permit timely communication among community users.
+This cross-browser compatible web application has been developed to permit timely communication among community users.
 
 Try it out: https://Scriber.meteorapp.com/.
 
