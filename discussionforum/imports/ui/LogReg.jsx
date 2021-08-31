@@ -40,7 +40,7 @@ export const LogReg = ({ user }) =>{
             <h3>Login and register by filling out the fields below.</h3><br></br>
             <h3>
                 <label htmlFor='email'>Email</label><br></br>
-                <input id="email" className="form-control" type="text" placeholder="email" require="true" onChange={ changeEmail }/><br></br><br></br>
+                <input id="email" className="form-control" type="email" placeholder="email" require="true" onChange={ changeEmail }/><br></br><br></br>
                 <label htmlFor='password'>Password</label><br></br>
                 <input id="password" className="form-control" type="password" placeholder="password" require="true" onChange={ changePassword }/><br></br><br></br>
                 <button type="submit">SUBMIT</button>
